@@ -1,6 +1,15 @@
 # SwiftUI practice creating a resume
 They say the best way to learn something is actually doing it, getting your hands dirty.<br>
 so, let's build a simple static resume to put in practice all the learnt things so far.<br>
+* VStack, HStack, ZStack
+* Spacer
+* Images
+* Sizes
+* Offset x,y
+* Shapes
+* Alignment
+* etc.
+  
 ![Screenshot 2024-03-03 at 6 49 30 AM](https://github.com/danielurra/Swift-UI-practice-creating-a-resume/assets/51704179/9e333b3a-fe45-4777-94e7-a06dc3790d82)<br>
 ## Grab the code
 ```swift
