@@ -30,8 +30,8 @@ struct ContentView: View {
                 Image("NickSquare")
                     .resizable()
                     .aspectRatio(contentMode: .fit)
-                    .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
-                    .frame(height: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/)
+                    .clipShape(Circle())
+                    .frame(height: 100)
                     .background {
                         Circle()
                             .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
