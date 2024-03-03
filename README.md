@@ -14,13 +14,6 @@ So, let's build a simple static resume to put in practice all the learnt things 
 ![Screenshot 2024-03-03 at 6 49 30 AM](https://github.com/danielurra/Swift-UI-practice-creating-a-resume/assets/51704179/9e333b3a-fe45-4777-94e7-a06dc3790d82)<br>
 ## Grab the code
 ```swift
-//
-//  ContentView.swift
-//  resume-danny
-//
-//  Created by Eusebio Taba on 3/1/24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
