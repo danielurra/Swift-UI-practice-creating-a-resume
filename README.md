@@ -34,7 +34,7 @@ struct ContentView: View {
                     .frame(height: 100)
                     .background {
                         Circle()
-                            .foregroundColor(/*@START_MENU_TOKEN@*/.blue/*@END_MENU_TOKEN@*/)
+                            .foregroundColor(.blue)
                             .offset(x: 10, y: 10)
                     }
                     .background {
