@@ -1,6 +1,6 @@
 # SwiftUI practice creating a resume
-They say the best way to learn something is actually doing it, getting your hands dirty.<br>
-so, let's build a simple static resume to put in practice all the learnt things so far.<br>
+They say the best way to learn something is actually doing it, by getting your hands dirty.<br>
+So, let's build a simple static resume to put in practice all the learnt things so far.<br>
 * VStack, HStack, ZStack
 * Spacer
 * Images
